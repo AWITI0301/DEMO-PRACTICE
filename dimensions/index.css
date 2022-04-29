@@ -1,0 +1,19 @@
+h1{
+    background-color: pink;
+    border: 3px solid black;
+    width: 300px;
+
+ body}
+
+ol {
+    border: 3px solid black;
+    width: 300px;
+    height: 110px;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+
+/*Add your CSS below this line*/
+  }
